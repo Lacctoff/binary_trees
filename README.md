@@ -1,6 +1,7 @@
 # Binary trees
 
 Project done during **Full Stack Software Engineering studies** at **ALX AFRICA**. It aims to learn about what is a binary tree, the different traversal methods to go through a binary tree and the different types of binary trees (complete, full, perfect and balanced).
+# Binary trees
 
 ## Technologies
 * Scripts written in Bash 4.3.11(1)
