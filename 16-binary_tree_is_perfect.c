@@ -42,7 +42,7 @@ const binary_tree_t *get_leaf(const binary_tree_t *tree)
 		return (tree);
 	return (tree->left ? get_leaf(tree->left) : get_leaf(tree->right));
 }
-	
+
 /**
  * is_perfect_recursive - Checks if a binary tree is perfect recursively.
  * @tree: A pointer to the root node of the tree to check.
